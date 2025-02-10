@@ -32,11 +32,11 @@ Para executar o projeto, você precisará de:
 1. **Clonar o Repositório**:
    - Abra o terminal e clone o repositório com o comando:
       ```bash
-      git clone https://github.com/projeto-de-algoritmos-2024/SelosPagamento.git
+      git clone https://github.com/Filipe-002/Programacao_Dinamica-StampCalculator.git
       ```
    - Navegue até a pasta do projeto com:
      ```bash
-     cd SelosPagamento
+     cd stamp-calculator
      ```
 
 2. **Instalar Dependências**:
