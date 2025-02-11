@@ -1,4 +1,4 @@
-# Stamp Calculator
+# Stamp Calculator - Programação Dinâmica
 
 ## Informações do Aluno
 | Matrícula  | Nome                             |
@@ -80,4 +80,4 @@ Para executar o projeto, você precisará de:
 Este projeto oferece uma solução prática para o problema do "Coin Change", demonstrando como problemas de otimização podem ser resolvidos usando programação dinâmica. A aplicação também serve como uma ferramenta educativa, permitindo que os usuários compreendam o processo de cálculo de uma maneira visual.
 
 ## Demonstração em Vídeo
-Para mais detalhes, confira a [demonstração em vídeo do projeto](https://youtu.be/MoMc3qC1j1c).
+Para mais detalhes, confira a [demonstração em vídeo do projeto](https://youtu.be/ONQnzjMTrw0).
